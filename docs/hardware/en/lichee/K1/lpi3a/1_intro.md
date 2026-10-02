@@ -21,6 +21,8 @@ LicheePi 3A is currently the most cost-effective mid-range RISC-V SBC. Multi cor
 ![GeekBench6]( https://browser.geekbench.com/v6/cpu/compare/6718771?baseline=5822041 )
 ![benchmark](./assets/intro/benchmark.png)
 ![geekbench6](./assets/intro/geekbench6.png)
+
+Independent results from the same test setup used for other SBCs (Geekbench 6, 7-Zip, power draw, eMMC and NVMe storage) are in the [LicheePi 3A benchmarks on sbc.compare](https://sbc.compare/sipeed-licheepi-3a), along with a [LicheePi 3A vs LicheePi 4A comparison](https://sbc.compare/sipeed-licheepi-4a/sipeed-licheepi-3a).
  
 LicheePi 3A can be used as a typical RISC-V verification platform, and its powerful performance enables fast local compilation without the need for QEMU compilation.
 LicheePi 3A is basically compatible with LicheePi4A. If you have purchased LicheePi4A, you can only purchase LM3A to install on the LPi4A motherboard (without M.2 interface).

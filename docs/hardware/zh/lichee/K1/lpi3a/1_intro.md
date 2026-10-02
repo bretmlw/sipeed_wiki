@@ -20,6 +20,8 @@ LicheePi 3A 是目前极具性价比的中端 RISC-V SBC。多核性能约为上
 
 ![benchmark](./assets/intro/benchmark.png)
 ![geekbench6](./assets/intro/geekbench6.png)
+
+第三方独立测试结果（Geekbench 6、7-Zip、功耗、eMMC 与 NVMe 存储，测试方法与其他 SBC 相同）见 [sbc.compare 的 LicheePi 3A 跑分测试](https://sbc.compare/sipeed-licheepi-3a)，另有 [LicheePi 3A 与 LicheePi 4A 对比](https://sbc.compare/sipeed-licheepi-4a/sipeed-licheepi-3a)。
  
 LicheePi 3A 可以用作典型的 RISC-V 验证平台，其强大的性能可以较快速地实现本地编译，而无需使用 QEMU 进行编译。
 

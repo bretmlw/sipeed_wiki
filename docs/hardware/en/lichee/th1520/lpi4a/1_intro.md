@@ -124,6 +124,7 @@ Online store: [Aliexpress](https://www.aliexpress.com/item/1005005532736080.html
 
 [Github](https://github.com/sipeed/LicheePi4A)
 [Sipeed Site](https://dl.sipeed.com/shareURL/LICHEE/licheepi4a)
+[LicheePi 4A benchmarks and comparisons](https://sbc.compare/sipeed-licheepi-4a)
 
 Telegram: https://t.me/linux4rv
 

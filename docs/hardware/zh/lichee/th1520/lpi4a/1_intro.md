@@ -116,6 +116,7 @@ LicheePi 4A 可以用作典型的 RISC-V 验证平台，其强大的性能可以
 [Github](https://github.com/sipeed/LicheePi4A)
 [淘宝](https://item.taobao.com/item.htm?id=715508771884)
 [Sipeed 下载站](https://dl.sipeed.com/shareURL/LICHEE/licheepi4a)
+[LicheePi 4A 跑分与对比](https://sbc.compare/sipeed-licheepi-4a)
 
 QQ群: 559614960 [点我自动加群](http://qm.qq.com/cgi-bin/qm/qr?k=5YkapIhdtWHp8AEfM5_bFFYQIX3CUQN6)
 Telegram: https://t.me/linux4rv

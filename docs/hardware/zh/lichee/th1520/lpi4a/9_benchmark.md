@@ -2,6 +2,11 @@
 title: CPU 跑分测试
 keywords: Linux, Lichee, TH1520, SBC, RISCV, benchmark
 update:
+  - date: 2026-10-02
+    version: v1.1
+    author: Bret Weber
+    content:
+      - 添加来自 sbc.compare 的 Geekbench 6 测试结果
   - date: 2023-05-08
     version: v1.0
     author: wonder
@@ -105,6 +110,12 @@ real    265m50.172s
 user    980m15.164s
 sys     60m51.329s
 ```
+
+## Geekbench 6
+
+单核 **130**，多核 **380**（8GB 版本，Debian 13，内核 6.6.108-th1520，Geekbench 6 官方版本）。
+
+结果来自 [sbc.compare 的 LicheePi 4A 跑分测试](https://sbc.compare/sipeed-licheepi-4a)，该站使用同一套自动化测试流程测试所有开发板。页面还提供 7-Zip、Linpack、功耗、温度与存储测试结果，以及与其他 SBC 的对比。
 
 ## 其它
 

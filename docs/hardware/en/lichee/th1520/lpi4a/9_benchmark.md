@@ -2,6 +2,11 @@
 title: CPU Benchmarks
 keywords: Linux, Lichee, TH1520, SBC, RISCV, benchmark
 update:
+  - date: 2026-10-02
+    version: v1.2
+    author: Bret Weber
+    content:
+      - Add Geekbench 6 result from sbc.compare
   - date: 2023-07-21
     version: v1.1
     author: ztd
@@ -111,6 +116,12 @@ real    265m50.172s
 user    980m15.164s
 sys     60m51.329s
 ```
+
+## Geekbench 6
+
+Single-core **130**, multi-core **380** (8GB board, Debian 13, kernel 6.6.108-th1520, stock Geekbench 6 build).
+
+From the [LicheePi 4A benchmarks on sbc.compare](https://sbc.compare/sipeed-licheepi-4a), where every board runs through the same automated test suite. The page also covers 7-Zip, Linpack, power draw, thermals and storage, with side-by-side comparisons against other SBCs.
 
 ## 其它
 
